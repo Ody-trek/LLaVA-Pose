@@ -1,0 +1,142 @@
+[
+    {
+      "id": "134754",
+      "image": "data/coco/train2014/000000134754.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<image>\nWhat action are the two people in the image doing?"
+        },
+        {
+          "from": "gpt",
+          "value": "The two people in the image are walking."
+        }
+      ]
+    },
+    {
+      "id": "134754",
+      "image": "data/coco/train2014/000000134754.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<image>\nWhat are the two people carrying in the image?"
+        },
+        {
+          "from": "gpt",
+          "value": "The two people are carrying surfboards."
+        }
+      ]
+    },
+    {
+      "id": "134754",
+      "image": "data/coco/train2014/000000134754.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<image>\nDo the people in the image look like they are preparing for an activity or coming from one?"
+        },
+        {
+          "from": "gpt",
+          "value": "It appears like they preparing for an activity, presumably surfing."
+        }
+      ]
+    },
+    {
+      "id": "134754",
+      "image": "data/coco/train2014/000000134754.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<image>\nAre the people in the image standing still or are they in motion?"
+        },
+        {
+          "from": "gpt",
+          "value": "They are in motion as they are walking on the beach."
+        }
+      ]
+    },
+    {
+      "id": "134754",
+      "image": "data/coco/train2014/000000134754.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<image>\nCan you tell the relationship between the two people based on their poses?"
+        },
+        {
+          "from": "gpt",
+          "value": "It's difficult to definitively determine their relationship based on their poses, but they seem to be friends or possibly a couple. They seem to be comfortable with each other's presence."
+        }
+      ]
+    },
+    {
+      "id": "302443",
+      "image": "data/coco/train2014/000000302443.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<image>\nAre the people in the image standing or sitting?"
+        },
+        {
+          "from": "gpt",
+          "value": "The people are standing in the image."
+        }
+      ]
+    },
+    {
+      "id": "302443",
+      "image": "data/coco/train2014/000000302443.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<image>\nAre any of the people in the image playing with the silver balls?"
+        },
+        {
+          "from": "gpt",
+          "value": "The people in the image seem to be observing the balls rather than actively playing with them."
+        }
+      ]
+    },
+    {
+      "id": "302443",
+      "image": "data/coco/train2014/000000302443.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<image>\nAre the people engagement in any particular activity?"
+        },
+        {
+          "from": "gpt",
+          "value": "It appears they are observing or participating in a game involving the silver balls on the sand."
+        }
+      ]
+    },
+    {
+      "id": "302443",
+      "image": "data/coco/train2014/000000302443.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<image>\nCan you identify any distinct postures among the people?"
+        },
+        {
+          "from": "gpt",
+          "value": "The people generally look relaxed and casual, standing upright without any drastic poses."
+        }
+      ]
+    },
+    {
+      "id": "302443",
+      "image": "data/coco/train2014/000000302443.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<image>\nAre all people oriented towards the balls?"
+        },
+        {
+          "from": "gpt",
+          "value": "Yes, their attention seems directed towards the balls on the ground."
+        }
+      ]
+    }
+] 
