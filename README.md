@@ -2,7 +2,7 @@
 
 This repository provides methods for generating **Keypoint-Integrated Instruction-Following Data** to enhance multimodal models' understanding of human poses and actions. It is built on the [LLaVA](https://github.com/haotian-liu/LLaVA) framework and is detailed in our research paper:
 
-📄 **[LLaVA-Pose: Keypoint-Integrated Instruction Tuning for Human Pose and Action Understanding]([your-paper-link-here](https://arxiv.org/abs/2506.21317v1))**
+📄 **[LLaVA-Pose: Keypoint-Integrated Instruction Tuning for Human Pose and Action Understanding]([https://arxiv.org/abs/2506.21317v1])**
 
 ---
 
